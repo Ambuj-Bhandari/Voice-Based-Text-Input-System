@@ -1,0 +1,29 @@
+/*TAG Selectors*/ 
+body{
+    margin: 0;
+    text-align: center;
+    background-color: #73A9AD;
+}
+h1{
+    padding: 5px; 
+    font-size: xx-large;
+} 
+p{
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+/*CLASS Selectors*/
+.btn{
+    margin-bottom: 2%;
+    border-radius: 5.75rem;  
+    padding: 0.375rem 5.45rem;
+}
+
+.heading{
+    background-color: #06283D;
+    color: white;
+} 
+.label{
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
